@@ -151,6 +151,7 @@ a {
     padding: 27px 15px 27px 15px;
     overflow: hidden;
     float: left;
+    width: 100%;
   }
 }
 .navbar-default .navbar-toggle .icon-bar {
